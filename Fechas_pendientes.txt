@@ -1,0 +1,9 @@
+30/09/22 -- Práctica de diseño de aplicaciones ✅
+ 
+05/10/22 -- Tipos y estructuras de programación
+
+07/10/22 -- Primer live de HTML intro 
+ 
+12/10/22 -- Elementos compuestos y formularios en HTML
+
+14/10/22 -- Práctica de HTML
