@@ -28,9 +28,4 @@ Asi mismo la plataforma debe tener un lado de *Administrador* para llevar el con
     * *Al existir una nueva actualización en su proceso legal, al cliente se le notificara por medio de correo electrónico.*
 
 ## Diagrama de flujo
-<<<<<<< HEAD
 ![Diagrama](/Resources/Diagrama_de_flujo.jpg)
-aasdsdasd
-=======
-![Diagrama](./Resources/Diagrama_de_flujo.jpg)
->>>>>>> bed7488f9acb1617cd0c911e6bff4dd019c58172
