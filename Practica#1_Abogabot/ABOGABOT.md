@@ -29,3 +29,6 @@ Asi mismo la plataforma debe tener un lado de *Administrador* para llevar el con
 
 ## Diagrama de flujo
 ![Diagrama](./Resources/Diagrama_de_flujo.jpg)
+
+## Buyer persona
+![Diagrama](./Resources/buyer_persona.png)
