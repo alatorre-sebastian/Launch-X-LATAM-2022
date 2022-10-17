@@ -32,3 +32,6 @@ Asi mismo la plataforma debe tener un lado de *Administrador* para llevar el con
 
 ## Buyer persona
 ![Diagrama](./Resources/buyer_persona.png)
+
+## Publico objetivo
+![Diagrama](./Resources/Publico_objetivo.png)
