@@ -38,3 +38,6 @@ Asi mismo la plataforma debe tener un lado de *Administrador* para llevar el con
 
 ## UX
 ![Diagrama](./Resources/UI.png)
+
+## UI
+![Diagrama](./Resources/UX.png)
