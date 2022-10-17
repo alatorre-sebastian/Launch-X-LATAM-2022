@@ -35,3 +35,6 @@ Asi mismo la plataforma debe tener un lado de *Administrador* para llevar el con
 
 ## Publico objetivo
 ![Diagrama](./Resources/Publico_objetivo.jpg)
+
+## UX
+![Diagrama](./Resources/UI.png)
